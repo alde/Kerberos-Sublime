@@ -504,6 +504,21 @@
                 <string>#F8F8F0</string>
             </dict>
         </dict>
+        <dict>
+            <key>name</key>
+            <string>String embedded-source</string>
+            <key>scope</key>
+            <string>string source</string>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string></string>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#E6B808</string>
+            </dict>
+        </dict>
     </array>
     <key>uuid</key>
     <string>5EC01583-7BFA-496E-BAA7-6993f61d4191</string>
