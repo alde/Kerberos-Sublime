@@ -55,7 +55,7 @@
                 <key>foreground</key>
                 <string>#E57EDD</string>
             </dict>
-        </dict>x
+        </dict>
         <dict>
             <key>name</key>
             <string>Built-in constant</string>
